@@ -65,7 +65,7 @@ Some links below may be Amazon affiliate links.
 - Printer: [3D printer used for this project](https://amzn.to/3OEwXog)
 - Organizer: [Milwaukee Packout 48-22-8430](https://amzn.to/42duHYc)
 
-  ## Build Video
+## Build Video
 
 Watch the project video on YouTube:
 

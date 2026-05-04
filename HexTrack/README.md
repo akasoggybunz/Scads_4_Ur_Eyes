@@ -26,14 +26,13 @@ The OpenSCAD source and OpenSCAD Customizer presets are in `source/`:
 - `double layer.scad`
 - `double layer.json`
 
-The included `source/HexTrackSingleHalfTile.3mf` is a slicer/project export for the half-tile print setup.
-
 ## Printable Files
 
 The current STL exports are in `stl/`.
 
 Top-level jig and clip files:
 
+- `stl/HexTrackSeamTrackClipFullTile.stl`
 - `stl/HexTrackGluingJig.stl`
 - `stl/HexTrackGluingJigCenter.stl`
 - `stl/Track Clip.stl`

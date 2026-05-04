@@ -70,3 +70,8 @@ Some links below may be Amazon affiliate links.
 Watch the project video on YouTube:
 
 [Starlink Mini Packout Insert Build](https://youtu.be/A22Ygl0FSNs)
+
+## Sources
+- https://makerworld.com/en/models/1067228-milwaukee-packout-11-storage-insert-48-22-8430#profileId-1056468
+- https://makerworld.com/en/models/1186057-milwaukee-packout-insert-48-22-8430-socket-holder#profileId-1197077
+- https://makerworld.com/en/models/2667780-milwaukee-packout-m18-multitool-and-battery#profileId-2952257

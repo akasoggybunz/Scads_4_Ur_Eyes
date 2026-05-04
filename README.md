@@ -70,11 +70,7 @@ Good contributions include:
 - Bug fixes to SCAD source
 - Alternate versions for different printers or hardware
 
-## Build Video
 
-Watch the project video on YouTube:
-
-[Starlink Mini Packout Insert Build](https://youtu.be/A22Ygl0FSNs)
 
 
 ## License

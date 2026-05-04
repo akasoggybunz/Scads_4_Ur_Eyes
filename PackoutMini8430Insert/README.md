@@ -66,3 +66,9 @@ Some links below may be Amazon affiliate links.
 - Filament: [Polymaker PolyLite PLA Pro](https://amzn.to/4cZmBHp)
 - Printer: [3D printer used for this project](https://amzn.to/3OEwXog)
 - Organizer: [Milwaukee Packout 48-22-8430](https://amzn.to/42duHYc)
+
+  ## Build Video
+
+Watch the project video on YouTube:
+
+[Starlink Mini Packout Insert Build](https://youtu.be/A22Ygl0FSNs)

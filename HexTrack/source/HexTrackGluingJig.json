@@ -1,0 +1,25 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "center_foot_diameter": "12",
+            "feet_diameter": "12",
+            "feet_height": "8",
+            "feet_inset": "0.1",
+            "hex_flat_to_flat": "246",
+            "hole_depth": "8",
+            "hole_tolerance": "0.7",
+            "include_center_foot": "true",
+            "jig_margin": "10",
+            "jig_part": "0",
+            "jig_thickness": "20",
+            "plate_thickness": "4",
+            "use_foot0": "false",
+            "use_foot1": "true",
+            "use_foot2": "true",
+            "use_foot3": "false",
+            "use_foot4": "false",
+            "use_foot5": "false"
+        }
+    },
+    "fileFormatVersion": "1"
+}

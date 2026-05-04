@@ -23,6 +23,24 @@ Folder:
 
 [`PackoutMini8430Insert`](./PackoutMini8430Insert)
 
+### HexTrack
+
+Modular N-scale Hex-Trak layout tiles, gluing jigs, clip exports, and OpenSCAD source.
+
+Includes:
+
+- OpenSCAD source
+- OpenSCAD Customizer presets
+- Printable STL exports
+- 3MF slicer/project export
+- Render image
+- Hex-Trak reference PDF
+- Project-specific README
+
+Folder:
+
+[`HexTrack`](./HexTrack)
+
 ## Requirements
 
 Most projects use:

@@ -1,0 +1,18 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# OpenSCAD generated/cache files
+*.csg
+*.off
+*.amf
+*.gcode
+
+# Local scratch exports
+tmp/
+tmp_*/
+*_temp/
+

@@ -41,7 +41,7 @@ track_file = ""; // Path to track STL (e.g., "KatoTrack.stl")
 
 /* [Track Clips] */
 show_track_clips = true; // Enable to show track clip placement
-track_clip_file = "STLs/Track Clip.stl"; // Path to track clip STL (relative to this SCAD)
+track_clip_file = "../stl/Track Clip.stl"; // Path to track clip STL (relative to this SCAD)
 track_clip_z_offset = 0; // [-10:10] Z position of clip (relative to plate top)
 track_clip_edge_offset = 0; // [-20:20] Offset normal to the selected hex side (positive = outward)
 track_clip_spacing = 33; // [20:40] Track-center spacing for clips (HexTrack standard = 33 mm)

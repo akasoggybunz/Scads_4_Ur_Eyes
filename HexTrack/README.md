@@ -4,6 +4,16 @@ Printable OpenSCAD files and STL exports for a modular N-scale train layout usin
 
 The main module is a 248 mm flat-to-flat hex tile designed around Kato N-scale Unitrack geometry. The full tile is larger than a 255 mm printer bed point-to-point, so the source supports split half-tile printing.
 
+## Render Previews
+
+Full tile with track clips enabled on all six sides:
+
+![HexTrack full tile with clips, isometric view](./images/hextrack-full-clips-iso.png)
+
+![HexTrack full tile with clips, top view](./images/hextrack-full-clips-top.png)
+
+![HexTrack full tile with clips, low angle view](./images/hextrack-full-clips-low-angle.png)
+
 ## Source Files
 
 The OpenSCAD source and OpenSCAD Customizer presets are in `source/`:
@@ -107,4 +117,3 @@ Useful external references:
 - Infill: 15-30%
 - Dry fit split halves, clips, and track before producing a full set
 - Re-check tolerances if switching printers, nozzle size, or material
-

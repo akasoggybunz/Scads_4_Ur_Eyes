@@ -8,8 +8,6 @@ The SCAD script used for these files is:
 
 `source/starlink_mini_8430_insert_v2.scad`
 
-The earlier `starlink_mini_packout_insert.scad` was an older tiled version. A later `v3/V3_8430_StarlinkminiInsert.scad` file in the working folder is empty, so it was not the generator.
-
 ## Printable Files
 
 The current publish set is in `stl/`:

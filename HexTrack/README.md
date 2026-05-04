@@ -6,13 +6,13 @@ The main module is a 248 mm flat-to-flat hex tile designed around Kato N-scale U
 
 ## Render Previews
 
-Full tile with track clips enabled on all six sides:
+Full tile using the `SeamTrackClip` OpenSCAD preset:
 
-![HexTrack full tile with clips, isometric view](./images/hextrack-full-clips-iso.png)
+![HexTrack SeamTrackClip preset, isometric view](./images/hextrack-seam-track-clip-iso.png)
 
-![HexTrack full tile with clips, top view](./images/hextrack-full-clips-top.png)
+![HexTrack SeamTrackClip preset, top view](./images/hextrack-seam-track-clip-top.png)
 
-![HexTrack full tile with clips, low angle view](./images/hextrack-full-clips-low-angle.png)
+![HexTrack SeamTrackClip preset, low angle view](./images/hextrack-seam-track-clip-low-angle.png)
 
 ## Source Files
 

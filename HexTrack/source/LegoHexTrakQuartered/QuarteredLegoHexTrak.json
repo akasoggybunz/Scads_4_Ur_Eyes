@@ -1,0 +1,77 @@
+{
+    "parameterSets": {
+        "full preview": {
+            "quarter_mode": "full_preview",
+            "include_track_clips": "true",
+            "hex_flat_to_flat": "246",
+            "plate_thickness": "4",
+            "include_cutouts": "false",
+            "include_alignment": "false",
+            "track_variant": "1",
+            "track_spacing": "33",
+            "multi_track_alignment": "record_positive",
+            "enable_studs": "true",
+            "stud_pitch": "8",
+            "stud_diameter": "4.8",
+            "stud_height": "1.8",
+            "stud_edge_margin": "4",
+            "stud_merge_depth": "0.15",
+            "stud_fn": "24",
+            "blank_surface_enabled": "true",
+            "blank_surface_shape": "straight",
+            "blank_surface_width": "40",
+            "blank_surface_from": "side1",
+            "blank_surface_to": "side4",
+            "blank_surface_extra_length": "20",
+            "blank_surface_curve_radius": "130",
+            "blank_surface_curve_direction": "ccw",
+            "blank_surface_curve_fit": "bezier",
+            "blank_surface_curve_bulge": "75",
+            "blank_surface_curve_steps": "32",
+            "track_clip_stl": "..\/..\/stl\/Track Clip.stl",
+            "track_clip_z_offset": "-0.75",
+            "track_clip_edge_offset": "-8",
+            "track_clip_local_x": "-764.816",
+            "track_clip_local_y": "544.114",
+            "track_clip_local_z": "-1.625",
+            "track_clip_render": "selected_pair",
+            "track_clip_side": "side1",
+            "track_clip_side_a": "side1",
+            "track_clip_side_b": "side4",
+            "quarter_gap": "0.2",
+            "split_seam_clearance": "18",
+            "split_seam_remove_studs": "true",
+            "domino_enabled": "true",
+            "domino_length": "22",
+            "domino_width": "7",
+            "domino_depth": "10",
+            "domino_height": "2.2",
+            "domino_z": "1.2",
+            "domino_clearance": "0.35",
+            "domino_positions": "[-85, -45, 45, 85]",
+            "show_foot_markers": "true",
+            "foot_marker_diameter": "12",
+            "foot_marker_line_width": "1",
+            "foot_marker_depth": "0.35",
+            "foot_marker_at_vertices": "true",
+            "foot_marker_inset": "0.1",
+            "foot_marker_at_center": "false"
+        },
+        "front left": {
+            "quarter_mode": "front_left"
+        },
+        "front right": {
+            "quarter_mode": "front_right"
+        },
+        "back left": {
+            "quarter_mode": "back_left"
+        },
+        "back right": {
+            "quarter_mode": "back_right"
+        },
+        "domino key": {
+            "quarter_mode": "domino_key"
+        }
+    },
+    "fileFormatVersion": "1"
+}

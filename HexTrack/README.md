@@ -23,6 +23,8 @@ The OpenSCAD source and OpenSCAD Customizer presets are in `source/`:
 - `HexTrackDoubleTile.scad`
 - `HexTrackGluingJig.scad`
 - `HexTrackGluingJig.json`
+- `DCCEXElectronicsMountain.scad`
+- `DCCEXElectronicsMountain_v2.scad`
 - `double layer.scad`
 - `double layer.json`
 
@@ -96,6 +98,17 @@ Feeder holes can be cut directly into the tile from `HexTrackSingleTile.scad`:
 - `feeder_hole_spacing`
 
 Use `show_feeder_hole_preview = true` while positioning holes.
+
+## DCC-EX Electronics Mountain
+
+`source/DCCEXElectronicsMountain.scad` is a standalone hollow mountain cover sized for one HexTrack tile. The default model has a 220 mm by 205 mm base, a 160 mm height, an open bottom for electronics access, and two side cable exits:
+
+- 22 mm hole for a 120 V power cable
+- 16 mm hole for low-voltage layout wiring
+
+The default footprint is intended to fit within a 232 mm cubed printer volume while leaving a small margin for slicer settings. Print it as a separate cover and dry fit it over the DCC-EX electronics before routing mains wiring.
+
+By default, both cable exits are on the front edge near the bottom; change `cable_side` in OpenSCAD to move them to the back, left, or right.
 
 ## Reference
 

@@ -54,7 +54,7 @@ Some projects may include PowerShell scripts for regenerating STL files from SCA
 ## Using The Files
 
 1. Open the project folder you want.
-2. Read that project’s `README.md`.
+2. Read that project's `README.md`.
 3. Use the provided STL files for printing, or regenerate them from the SCAD source.
 4. Check dimensions against your real-world parts before running long prints.
 
